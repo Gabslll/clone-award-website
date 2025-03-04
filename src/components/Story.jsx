@@ -63,7 +63,7 @@ const Story = () => {
                             onMouseMove={handleMouseMove}
                             src='/img/entrance.webp'
                             alt='etrance'
-                            className='object-contai'
+                            className='object-contain'
                         />
                     </div>
                 </div>
